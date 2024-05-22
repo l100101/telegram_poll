@@ -5,7 +5,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from datetime import datetime
 import pytz
 
-API_TOKEN = "6286082728:AAFQxrXyE4F74QOCJQ-QMofEPKi3q9hcIto"
+API_TOKEN = "T O K E N"
 bot = telebot.TeleBot(API_TOKEN)
 
 # @bot.message_handler(commands=["poll"])
