@@ -6,8 +6,8 @@ import pytz
 from datetime import datetime
 
 # Конфигурация
-BOT_TOKEN = "6286082728:AAFQxrXyE4F74QOCJQ-QMofEPKi3q9hcIto"  # Токен бота
-CHAT_ID = -4273005877  # ID чата
+BOT_TOKEN = "token"  # Токен бота
+CHAT_ID = -1234567890  # ID чата
 PUBLISH_TIME = "11:11"  # Время публикации опроса
 PUBLISH_TIMEZONE = "Europe/Samara"  # Часовой пояс
 
